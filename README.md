@@ -1,7 +1,7 @@
 ## Project Description
 This project is a simple Node.js web server using Express to host a simple football webpage.
 
-## Installation Steps
+## Steps
 1. Clone the repository:
    git clone https://github.com/username/sit737-2025-prac2p.git
 2. Navigate to that folder by using the command: 
